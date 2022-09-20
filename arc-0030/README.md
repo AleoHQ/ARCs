@@ -2,7 +2,7 @@
 arc: 0030
 title: Adding self.parent opcode
 authors: evan@demoxlabs.xyz mike@demoxlabs.xyz
-discussion: ARC-0030: Adding self.parent opcode
+discussion: ARC-0030 Adding self.parent opcode
 topic: Application
 status: Draft
 created: 9/2/2022
